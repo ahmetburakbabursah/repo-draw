@@ -1,1 +1,134 @@
-<mxfile host="Electron" modified="2022-11-09T08:46:15.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.9.9 Chrome/85.0.4183.121 Electron/10.1.5 Safari/537.36" etag="p44rhnPCIbfsuLgDVexN" version="13.9.9" type="device"><diagram id="RHosF-DjjUUsS6NgBdJO" name="Sayfa -1">5Vvfc6M2EP5reEwHiV/mMXGcdNJrm05upue+yUYHugjEyHJs319fYYQBgWNysSF2HhKklcDSfvutdhfbsMbx+p6jNPqTBZga0AzWhnVrQOi5I/k/E2xyge3ZuSDkJMhFoBQ8kZ9YCU0lXZIAL2oTBWNUkLQunLMkwXNRkyHO2ao+7Tuj9U9NUYgbgqc5ok3pvyQQUS4dQa+U/45JGBWfDFw/H4lRMVntZBGhgK0qImtiWGPOmMhb8XqMaaa7Qi/5fXd7RncL4zgRXW7452Fy89WGdor++wN8nZjzh7/9K6jWJjbFhnEg96+6jIuIhSxBdFJKbzhbJgHOnmrKXjnnC2OpFAIp/IGF2Cgw0VIwKYpETNVoc+VqMwu25HP8ynLVvGyNlRvVfu8xi7HgGzmBY4oEealjiJQphLt5u1sfGZFLgaayWstVmCmjBbZZf4RAPMRC3VXqXDYqyyhFWyTegIpa8AuiS7WFGTLGjuHfUdQEjFJJhgyYVUQEfkrRVoUrSceOan/BXOD1qwotFGMqRaxKLoDCwKMKD0bmfp3XtPVW1djnZbDWMAYL3X4N1moYrPx880r+gcxipCeWCxnbxg3IlIY2ZRsbY8u49hqoSm+ZZk2pdEQppizkKJZQpJgTuVrM9bHHcuAQEb6TNS6OmmMTQ/cYh4iiA3U0orjnRRSnJ6I4dg0ny+uXKE6DKAJFMUm2W89ZQXFSJUnJlTBv8fyS5JefBnRRnBl4MlukOwjOl0nQryO0Y8hgTALWEFTCayK+VdrT7FG/Oap3u1ZP3nY2qvPr9PP6oZ+tnVM26PmcAkNCWcI3rYy0QykR5JvKTVl3Wh0rb9v2jmYCOQKvzBsd21TeRU5vv0PdeUYqtoqpBh6aEfCIxbPlop8YGuw5gioObtRnSA3OhhR7td93fO12TAgPP0h3gDlNT5dZOucVFh7d2ew5l7w6LI7t9HoujTp4sfBjeTGoacx0BvZizRzy4qI0AIehg6ujdur6F2zlQ5H4SNOzbis0OJAADUkLt6UO0CstoP8JaGH3QwvPHjZ7KfZZoUVLmWCWVdRuxpv8IvJLkl8urlqgJ5TWaOhqgfUJqgXA7Ylwlh6W9Uw4twvhnnNuqUL2tk0btDtzmunxMWhGe8Dqk2bwbMK9XSUH1Oo4ZVnn6JUcoNKJg6WcnoruHqhbT9e3U9eco01lWppNWHQ/n11feyN+YD6sz5eNfAW/6lP+urJdPHW+Tbwvk+mP1aP7EN5fnVmxRbON9xjk0e3K0Y4Hz+/5eGhJ2/GMk2cq3bQMxAgNSEIuL+bSs8Ph39D4DSCCJT+o9z6/OWF7Tk1pPuiotNNlhs2X9lER3PDzclIfuLKoF3ydjj7q8INGWolyT+X4rYdoo0Jtvn6IHpj/7kO03XabmTB+waJhtZKcom5kC8HZMx4zyjKvmrAEb50kpZoIURImsjuXhrX1sxnVyRzRazUQkyCg+3xHnQvHcB/a90ssv+k+7BbvAU/mPZrfZPhcCDhwaASayemFI6C9OG2LO3pFwIJvOUEvBgdLL4P2iENrSjVoxe30KVXrnuFJohU9o/JPV+Hev6saoZ7RPKtkLHmAipQqI5h/JzOrbJ3oI9TWGtxpwbRzOuW1HO3HSqdkt/zBQQ5a+asNa/I/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-09T09:06:29.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JIQFr5VF_LxAIygKqDy-" version="20.5.3" type="github">
+  <diagram id="RHosF-DjjUUsS6NgBdJO" name="Sayfa -1">
+    <mxGraphModel dx="912" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QJEBT424paZK1TE0cJO9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QJEBT424paZK1TE0cJO9-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QJEBT424paZK1TE0cJO9-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-3" value="0 - 100 arası sayı belirle" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QJEBT424paZK1TE0cJO9-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-5" value="0 - 100 arası bir sayı gir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="260" width="184" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-7" target="QJEBT424paZK1TE0cJO9-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-7" value="tahmin &amp;lt; sayı" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="370" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="640" as="targetPoint" />
+            <mxPoint x="360" y="610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QJEBT424paZK1TE0cJO9-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-8" value="tahmin &amp;gt; sayı" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="505" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-12" value="tahmin == sayı" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-14" value="daha yüksek sayı gir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-16" value="daha küçük sayı gir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="515" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-18" target="QJEBT424paZK1TE0cJO9-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="690" />
+              <mxPoint x="740" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-46eY5XE7LEYjwP6JgG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-18" value="Tahmin Doğru" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-19" value="stop" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="910" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-23" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QJEBT424paZK1TE0cJO9-8" edge="1">
+          <mxGeometry x="0.3333" relative="1" as="geometry">
+            <mxPoint x="360" y="590" as="targetPoint" />
+            <mxPoint x="360" y="585" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="600" />
+              <mxPoint x="360" y="600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-24" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-25" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-26" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="414" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJEBT424paZK1TE0cJO9-32" value="false" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N-46eY5XE7LEYjwP6JgG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="N-46eY5XE7LEYjwP6JgG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-46eY5XE7LEYjwP6JgG-2" value="Kaç seferde tahmin edildiğini yazdır" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="790" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
